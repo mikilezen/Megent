@@ -7,7 +7,7 @@ Megent is an intelligent AI agent designed to help users discover and find oppor
 ## Features
 
 - **🔍 Opportunity Discovery**: Automatically searches and identifies relevant opportunities based on user criteria
-- **🎓 Scholarship Matching**: Finds scholarships that match user qualifications and interests  
+- **🎓 Scholarship Matching**: Finds scholarships that match user qualifications and interests
 - **🤖 AI-Powered Recommendations**: Uses artificial intelligence to provide personalized suggestions
 - **✨ Smart Filtering**: Intelligently filters through numerous options to present the most relevant matches
 - **📊 Comprehensive Database**: Access to a wide range of opportunities and scholarships
